@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shrithu10/Leet-code/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Shrithu10/Leet-code/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Shrithu10/Leet-code/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Shrithu10/Leet-code/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
