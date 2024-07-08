@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shrithu10/Leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Shrithu10/Leet-code/tree/master/1293-three-consecutive-odds) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Shrithu10/Leet-code/tree/master/1505-create-target-array-in-the-given-order) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Shrithu10/Leet-code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shrithu10/Leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/Shrithu10/Leet-code/tree/master/1505-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
