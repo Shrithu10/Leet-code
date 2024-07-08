@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Shrithu10/Leet-code/tree/master/1293-three-consecutive-odds) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Shrithu10/Leet-code/tree/master/1505-create-target-array-in-the-given-order) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Shrithu10/Leet-code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Shrithu10/Leet-code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shrithu10/Leet-code/tree/master/0383-ransom-note) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shrithu10/Leet-code/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Shrithu10/Leet-code/tree/master/2128-reverse-prefix-of-word) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Shrithu10/Leet-code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Shrithu10/Leet-code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Counting
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/Shrithu10/Leet-code/tree/master/1505-create-target-array-in-the-given-order) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Shrithu10/Leet-code/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
