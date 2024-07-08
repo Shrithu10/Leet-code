@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shrithu10/Leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Shrithu10/Leet-code/tree/master/1293-three-consecutive-odds) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Shrithu10/Leet-code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Shrithu10/Leet-code/tree/master/0383-ransom-note) |
 | [2128-reverse-prefix-of-word](https://github.com/Shrithu10/Leet-code/tree/master/2128-reverse-prefix-of-word) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Shrithu10/Leet-code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Counting
 |  |
 | ------- |
