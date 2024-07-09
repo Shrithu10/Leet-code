@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/Shrithu10/Leet-code/tree/master/0507-perfect-number) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Shrithu10/Leet-code/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrithu10/Leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Shrithu10/Leet-code/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Shrithu10/Leet-code/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1954-replace-all-digits-with-characters](https://github.com/Shrithu10/Leet-code/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/Shrithu10/Leet-code/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shrithu10/Leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
