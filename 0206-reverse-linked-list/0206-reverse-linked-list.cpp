@@ -16,13 +16,11 @@ public:
         std::stack<int> s;
         ListNode* current = head;
         
-        // Push values onto the stack
         while (current != nullptr) {
             s.push(current->val);
             current = current->next;
         }
         
-        // Create a new reversed linked list
         ListNode* new_head = new ListNode(s.top());
         s.pop();
         current = new_head;
