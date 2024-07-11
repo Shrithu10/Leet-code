@@ -121,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Shrithu10/Leet-code/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Shrithu10/Leet-code/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
