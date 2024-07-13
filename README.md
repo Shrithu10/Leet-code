@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Shrithu10/Leet-code/tree/master/0507-perfect-number) |
 | [0866-rectangle-overlap](https://github.com/Shrithu10/Leet-code/tree/master/0866-rectangle-overlap) |
 | [0944-smallest-range-i](https://github.com/Shrithu10/Leet-code/tree/master/0944-smallest-range-i) |
+| [1013-fibonacci-number](https://github.com/Shrithu10/Leet-code/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shrithu10/Leet-code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1585-the-kth-factor-of-n](https://github.com/Shrithu10/Leet-code/tree/master/1585-the-kth-factor-of-n) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Shrithu10/Leet-code/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shrithu10/Leet-code/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Shrithu10/Leet-code/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Shrithu10/Leet-code/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -181,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/Shrithu10/Leet-code/tree/master/1585-the-kth-factor-of-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Shrithu10/Leet-code/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Shrithu10/Leet-code/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
