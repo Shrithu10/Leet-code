@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shrithu10/Leet-code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Shrithu10/Leet-code/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shrithu10/Leet-code/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Shrithu10/Leet-code/tree/master/2288-count-operations-to-obtain-zero) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shrithu10/Leet-code/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/Shrithu10/Leet-code/tree/master/1505-create-target-array-in-the-given-order) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Shrithu10/Leet-code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/Shrithu10/Leet-code/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/Shrithu10/Leet-code/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/Shrithu10/Leet-code/tree/master/3447-clear-digits) |
