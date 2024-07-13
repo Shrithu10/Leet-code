@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shrithu10/Leet-code/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shrithu10/Leet-code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Shrithu10/Leet-code/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2748-calculate-delayed-arrival-time](https://github.com/Shrithu10/Leet-code/tree/master/2748-calculate-delayed-arrival-time) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shrithu10/Leet-code/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
