@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Shrithu10/Leet-code/tree/master/0182-duplicate-emails) |
+| [1523-capital-gainloss](https://github.com/Shrithu10/Leet-code/tree/master/1523-capital-gainloss) |
 ## Matrix
 |  |
 | ------- |
