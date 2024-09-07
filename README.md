@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shrithu10/Leet-code/tree/master/2427-first-letter-to-appear-twice) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Shrithu10/Leet-code/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2825-minimize-string-length](https://github.com/Shrithu10/Leet-code/tree/master/2825-minimize-string-length) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shrithu10/Leet-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3447-clear-digits](https://github.com/Shrithu10/Leet-code/tree/master/3447-clear-digits) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shrithu10/Leet-code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Shrithu10/Leet-code/tree/master/2470-removing-stars-from-a-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Shrithu10/Leet-code/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2825-minimize-string-length](https://github.com/Shrithu10/Leet-code/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/Shrithu10/Leet-code/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Shrithu10/Leet-code/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Shrithu10/Leet-code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
