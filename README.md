@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shrithu10/Leet-code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1585-the-kth-factor-of-n](https://github.com/Shrithu10/Leet-code/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Shrithu10/Leet-code/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Shrithu10/Leet-code/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Shrithu10/Leet-code/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shrithu10/Leet-code/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shrithu10/Leet-code/tree/master/2288-count-operations-to-obtain-zero) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/Shrithu10/Leet-code/tree/master/1310-watering-plants) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shrithu10/Leet-code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Shrithu10/Leet-code/tree/master/1505-create-target-array-in-the-given-order) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Shrithu10/Leet-code/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrithu10/Leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Shrithu10/Leet-code/tree/master/1803-average-waiting-time) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Shrithu10/Leet-code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shrithu10/Leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0941-sort-array-by-parity](https://github.com/Shrithu10/Leet-code/tree/master/0941-sort-array-by-parity) |
 | [1217-relative-sort-array](https://github.com/Shrithu10/Leet-code/tree/master/1217-relative-sort-array) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Shrithu10/Leet-code/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/Shrithu10/Leet-code/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/Shrithu10/Leet-code/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Shrithu10/Leet-code/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -263,6 +266,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shrithu10/Leet-code/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Shrithu10/Leet-code/tree/master/0055-jump-game) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Shrithu10/Leet-code/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Shrithu10/Leet-code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-maximum-ice-cream-bars](https://github.com/Shrithu10/Leet-code/tree/master/1961-maximum-ice-cream-bars) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Shrithu10/Leet-code/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
