@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shrithu10/Leet-code/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Shrithu10/Leet-code/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shrithu10/Leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/Shrithu10/Leet-code/tree/master/0941-sort-array-by-parity) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shrithu10/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Shrithu10/Leet-code/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Shrithu10/Leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shrithu10/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shrithu10/Leet-code/tree/master/0451-sort-characters-by-frequency) |
