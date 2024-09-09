@@ -9,8 +9,8 @@ class Solution {
         while (a.size() > 0) {
             double average = (a.get(a.size() - 1) + a.get(0)) / 2.0;
             avg.add(average);
-            a.remove(a.size() - 1); // Remove max element
-            a.remove(0); // Remove min element
+            a.remove(a.size() - 1); 
+            a.remove(0); 
         }
         
         return avg.size();
