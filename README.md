@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shrithu10/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Shrithu10/Leet-code/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Shrithu10/Leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shrithu10/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0032-longest-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shrithu10/Leet-code/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Shrithu10/Leet-code/tree/master/2470-removing-stars-from-a-string) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Shrithu10/Leet-code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Shrithu10/Leet-code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrithu10/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
