@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shrithu10/Leet-code/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Shrithu10/Leet-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Shrithu10/Leet-code/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/Shrithu10/Leet-code/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/Shrithu10/Leet-code/tree/master/0507-perfect-number) |
 | [0866-rectangle-overlap](https://github.com/Shrithu10/Leet-code/tree/master/0866-rectangle-overlap) |
 | [0944-smallest-range-i](https://github.com/Shrithu10/Leet-code/tree/master/0944-smallest-range-i) |
