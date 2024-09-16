@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Shrithu10/Leet-code/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Shrithu10/Leet-code/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/Shrithu10/Leet-code/tree/master/0507-perfect-number) |
+| [0539-minimum-time-difference](https://github.com/Shrithu10/Leet-code/tree/master/0539-minimum-time-difference) |
 | [0866-rectangle-overlap](https://github.com/Shrithu10/Leet-code/tree/master/0866-rectangle-overlap) |
 | [0944-smallest-range-i](https://github.com/Shrithu10/Leet-code/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/Shrithu10/Leet-code/tree/master/1013-fibonacci-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shrithu10/Leet-code/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrithu10/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/Shrithu10/Leet-code/tree/master/0539-minimum-time-difference) |
 | [0941-sort-array-by-parity](https://github.com/Shrithu10/Leet-code/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Shrithu10/Leet-code/tree/master/0944-smallest-range-i) |
 | [1217-relative-sort-array](https://github.com/Shrithu10/Leet-code/tree/master/1217-relative-sort-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Shrithu10/Leet-code/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/Shrithu10/Leet-code/tree/master/0539-minimum-time-difference) |
 | [0941-sort-array-by-parity](https://github.com/Shrithu10/Leet-code/tree/master/0941-sort-array-by-parity) |
 | [1217-relative-sort-array](https://github.com/Shrithu10/Leet-code/tree/master/1217-relative-sort-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shrithu10/Leet-code/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shrithu10/Leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shrithu10/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shrithu10/Leet-code/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/Shrithu10/Leet-code/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shrithu10/Leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrithu10/Leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
