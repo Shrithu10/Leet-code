@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Shrithu10/Leet-code/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Shrithu10/Leet-code/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/Shrithu10/Leet-code/tree/master/0682-baseball-game) |
 | [0941-sort-array-by-parity](https://github.com/Shrithu10/Leet-code/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Shrithu10/Leet-code/tree/master/0944-smallest-range-i) |
 | [1217-relative-sort-array](https://github.com/Shrithu10/Leet-code/tree/master/1217-relative-sort-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Shrithu10/Leet-code/tree/master/0682-baseball-game) |
 | [1310-watering-plants](https://github.com/Shrithu10/Leet-code/tree/master/1310-watering-plants) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Shrithu10/Leet-code/tree/master/1505-create-target-array-in-the-given-order) |
 | [1803-average-waiting-time](https://github.com/Shrithu10/Leet-code/tree/master/1803-average-waiting-time) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0032-longest-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Shrithu10/Leet-code/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shrithu10/Leet-code/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Shrithu10/Leet-code/tree/master/2470-removing-stars-from-a-string) |
