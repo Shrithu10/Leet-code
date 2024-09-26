@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shrithu10/Leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shrithu10/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Shrithu10/Leet-code/tree/master/0374-guess-number-higher-or-lower) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Shrithu10/Leet-code/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -310,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shrithu10/Leet-code/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shrithu10/Leet-code/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
