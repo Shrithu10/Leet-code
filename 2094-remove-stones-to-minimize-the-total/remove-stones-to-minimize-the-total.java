@@ -8,7 +8,6 @@ class Solution {
         }
         while(k>0){
             int n=max.poll();
-            System.out.println(n-n/2);
             max.add(n-n/2);
             s=s-n/2;
             k--;
