@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shrithu10/Leet-code/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Shrithu10/Leet-code/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Shrithu10/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Shrithu10/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Shrithu10/Leet-code/tree/master/0383-ransom-note) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Shrithu10/Leet-code/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Shrithu10/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Shrithu10/Leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shrithu10/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shrithu10/Leet-code/tree/master/0451-sort-characters-by-frequency) |
