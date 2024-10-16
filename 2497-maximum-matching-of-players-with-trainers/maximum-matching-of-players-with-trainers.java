@@ -7,12 +7,10 @@ class Solution {
         while(i>=0 && j>=0){
                 if(players[i]<=trainers[j]){
                     c=c+1;
-                    i--;
                     j--;
                 }
-          else{
             i--;
-          }  
+        
           }
         return c;
     }
