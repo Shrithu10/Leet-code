@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shrithu10/Leet-code/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shrithu10/Leet-code/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Shrithu10/Leet-code/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/Shrithu10/Leet-code/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Shrithu10/Leet-code/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/Shrithu10/Leet-code/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Shrithu10/Leet-code/tree/master/0670-maximum-swap) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shrithu10/Leet-code/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shrithu10/Leet-code/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Shrithu10/Leet-code/tree/master/0441-arranging-coins) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Shrithu10/Leet-code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2634-minimum-common-value](https://github.com/Shrithu10/Leet-code/tree/master/2634-minimum-common-value) |
 ## Sorting
