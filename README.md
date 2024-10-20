@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shrithu10/Leet-code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shrithu10/Leet-code/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shrithu10/Leet-code/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/Shrithu10/Leet-code/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Shrithu10/Leet-code/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Shrithu10/Leet-code/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Shrithu10/Leet-code/tree/master/0507-perfect-number) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Shrithu10/Leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrithu10/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Shrithu10/Leet-code/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Shrithu10/Leet-code/tree/master/0279-perfect-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shrithu10/Leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Shrithu10/Leet-code/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Shrithu10/Leet-code/tree/master/1236-n-th-tribonacci-number) |
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shrithu10/Leet-code/tree/master/0347-top-k-frequent-elements) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Shrithu10/Leet-code/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
