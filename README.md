@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shrithu10/Leet-code/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Shrithu10/Leet-code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shrithu10/Leet-code/tree/master/0198-house-robber) |
+| [0219-contains-duplicate-ii](https://github.com/Shrithu10/Leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shrithu10/Leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shrithu10/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shrithu10/Leet-code/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Shrithu10/Leet-code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Shrithu10/Leet-code/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Shrithu10/Leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shrithu10/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Shrithu10/Leet-code/tree/master/0383-ransom-note) |
@@ -417,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shrithu10/Leet-code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Shrithu10/Leet-code/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
