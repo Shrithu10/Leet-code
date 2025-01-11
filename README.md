@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shrithu10/Leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1217-relative-sort-array](https://github.com/Shrithu10/Leet-code/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Shrithu10/Leet-code/tree/master/1256-rank-transform-of-an-array) |
+| [1502-construct-k-palindrome-strings](https://github.com/Shrithu10/Leet-code/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrithu10/Leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shrithu10/Leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shrithu10/Leet-code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Shrithu10/Leet-code/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shrithu10/Leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shrithu10/Leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1502-construct-k-palindrome-strings](https://github.com/Shrithu10/Leet-code/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Shrithu10/Leet-code/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shrithu10/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shrithu10/Leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shrithu10/Leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1502-construct-k-palindrome-strings](https://github.com/Shrithu10/Leet-code/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrithu10/Leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Shrithu10/Leet-code/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shrithu10/Leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shrithu10/Leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Shrithu10/Leet-code/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/Shrithu10/Leet-code/tree/master/0670-maximum-swap) |
+| [1502-construct-k-palindrome-strings](https://github.com/Shrithu10/Leet-code/tree/master/1502-construct-k-palindrome-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shrithu10/Leet-code/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Shrithu10/Leet-code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-maximum-ice-cream-bars](https://github.com/Shrithu10/Leet-code/tree/master/1961-maximum-ice-cream-bars) |
