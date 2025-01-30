@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shrithu10/Leet-code/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shrithu10/Leet-code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Shrithu10/Leet-code/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2645-pass-the-pillow](https://github.com/Shrithu10/Leet-code/tree/master/2645-pass-the-pillow) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Shrithu10/Leet-code/tree/master/2748-calculate-delayed-arrival-time) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Shrithu10/Leet-code/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shrithu10/Leet-code/tree/master/3227-find-missing-and-repeated-values) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/Shrithu10/Leet-code/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shrithu10/Leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Shrithu10/Leet-code/tree/master/2470-removing-stars-from-a-string) |
+| [2645-pass-the-pillow](https://github.com/Shrithu10/Leet-code/tree/master/2645-pass-the-pillow) |
 | [2886-faulty-keyboard](https://github.com/Shrithu10/Leet-code/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/Shrithu10/Leet-code/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shrithu10/Leet-code/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
