@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Shrithu10/Leet-code/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/1524-string-matching-in-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shrithu10/Leet-code/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shrithu10/Leet-code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrithu10/Leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Shrithu10/Leet-code/tree/master/1803-average-waiting-time) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Shrithu10/Leet-code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shrithu10/Leet-code/tree/master/0074-search-a-2d-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shrithu10/Leet-code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shrithu10/Leet-code/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shrithu10/Leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Shrithu10/Leet-code/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Shrithu10/Leet-code/tree/master/0670-maximum-swap) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shrithu10/Leet-code/tree/master/1502-construct-k-palindrome-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shrithu10/Leet-code/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shrithu10/Leet-code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Shrithu10/Leet-code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-maximum-ice-cream-bars](https://github.com/Shrithu10/Leet-code/tree/master/1961-maximum-ice-cream-bars) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Shrithu10/Leet-code/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
