@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shrithu10/Leet-code/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Shrithu10/Leet-code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shrithu10/Leet-code/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Shrithu10/Leet-code/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Shrithu10/Leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shrithu10/Leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shrithu10/Leet-code/tree/master/0347-top-k-frequent-elements) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shrithu10/Leet-code/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Shrithu10/Leet-code/tree/master/0200-number-of-islands) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shrithu10/Leet-code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shrithu10/Leet-code/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shrithu10/Leet-code/tree/master/2428-equal-row-and-column-pairs) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shrithu10/Leet-code/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Shrithu10/Leet-code/tree/master/0279-perfect-squares) |
 ## Prefix Sum
 |  |
@@ -463,4 +466,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrithu10/Leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Shrithu10/Leet-code/tree/master/0219-contains-duplicate-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shrithu10/Leet-code/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shrithu10/Leet-code/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
