@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Shrithu10/Leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrithu10/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shrithu10/Leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/Shrithu10/Leet-code/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrithu10/Leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shrithu10/Leet-code/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Shrithu10/Leet-code/tree/master/0189-rotate-array) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shrithu10/Leet-code/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/Shrithu10/Leet-code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shrithu10/Leet-code/tree/master/0200-number-of-islands) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shrithu10/Leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shrithu10/Leet-code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Shrithu10/Leet-code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shrithu10/Leet-code/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Shrithu10/Leet-code/tree/master/0279-perfect-squares) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shrithu10/Leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -472,9 +475,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Shrithu10/Leet-code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shrithu10/Leet-code/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Shrithu10/Leet-code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shrithu10/Leet-code/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
