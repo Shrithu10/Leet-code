@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Shrithu10/Leet-code/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Shrithu10/Leet-code/tree/master/1293-three-consecutive-odds) |
 | [1310-watering-plants](https://github.com/Shrithu10/Leet-code/tree/master/1310-watering-plants) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shrithu10/Leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shrithu10/Leet-code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Shrithu10/Leet-code/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/1524-string-matching-in-an-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shrithu10/Leet-code/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Shrithu10/Leet-code/tree/master/0441-arranging-coins) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shrithu10/Leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Shrithu10/Leet-code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2634-minimum-common-value](https://github.com/Shrithu10/Leet-code/tree/master/2634-minimum-common-value) |
 ## Sorting
