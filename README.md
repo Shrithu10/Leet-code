@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shrithu10/Leet-code/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shrithu10/Leet-code/tree/master/2428-equal-row-and-column-pairs) |
+| [2487-optimal-partition-of-string](https://github.com/Shrithu10/Leet-code/tree/master/2487-optimal-partition-of-string) |
 | [2561-number-of-distinct-averages](https://github.com/Shrithu10/Leet-code/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Shrithu10/Leet-code/tree/master/2634-minimum-common-value) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Shrithu10/Leet-code/tree/master/2824-check-if-the-number-is-fascinating) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-percentage-of-letter-in-string](https://github.com/Shrithu10/Leet-code/tree/master/2365-percentage-of-letter-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shrithu10/Leet-code/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Shrithu10/Leet-code/tree/master/2470-removing-stars-from-a-string) |
+| [2487-optimal-partition-of-string](https://github.com/Shrithu10/Leet-code/tree/master/2487-optimal-partition-of-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shrithu10/Leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Shrithu10/Leet-code/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Shrithu10/Leet-code/tree/master/1961-maximum-ice-cream-bars) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Shrithu10/Leet-code/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shrithu10/Leet-code/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2487-optimal-partition-of-string](https://github.com/Shrithu10/Leet-code/tree/master/2487-optimal-partition-of-string) |
 ## Game Theory
 |  |
 | ------- |
