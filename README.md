@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shrithu10/Leet-code/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shrithu10/Leet-code/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Shrithu10/Leet-code/tree/master/0279-perfect-squares) |
+| [0319-bulb-switcher](https://github.com/Shrithu10/Leet-code/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Shrithu10/Leet-code/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Shrithu10/Leet-code/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Shrithu10/Leet-code/tree/master/0507-perfect-number) |
@@ -487,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Shrithu10/Leet-code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shrithu10/Leet-code/tree/master/0200-number-of-islands) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Shrithu10/Leet-code/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
