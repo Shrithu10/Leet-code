@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shrithu10/Leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shrithu10/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Shrithu10/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Shrithu10/Leet-code/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Shrithu10/Leet-code/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Shrithu10/Leet-code/tree/master/0561-array-partition) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shrithu10/Leet-code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shrithu10/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Shrithu10/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Shrithu10/Leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/Shrithu10/Leet-code/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Shrithu10/Leet-code/tree/master/0561-array-partition) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shrithu10/Leet-code/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Shrithu10/Leet-code/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Shrithu10/Leet-code/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/Shrithu10/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shrithu10/Leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Shrithu10/Leet-code/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Shrithu10/Leet-code/tree/master/1236-n-th-tribonacci-number) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shrithu10/Leet-code/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Shrithu10/Leet-code/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shrithu10/Leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Shrithu10/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Shrithu10/Leet-code/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/Shrithu10/Leet-code/tree/master/0670-maximum-swap) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shrithu10/Leet-code/tree/master/1502-construct-k-palindrome-strings) |
