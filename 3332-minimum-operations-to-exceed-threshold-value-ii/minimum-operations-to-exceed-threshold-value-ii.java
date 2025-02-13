@@ -3,22 +3,19 @@ class Solution {
     PriorityQueue<Long> pq = new PriorityQueue<>();
     int c=0;
     for(int num:nums){
+        if(num<k){
         pq.add((long)num);
-    }
-    while(pq.size()>1){
+    }}
+    while(!pq.isEmpty()){
+        if(pq.size()==1){
+            c=c+1;
+            break;
+        }
     long x=pq.poll();
     long y=pq.poll();
-    if(x<k ){
-        long z=Math.min(x,y) * 2 + Math.max(x,y);
-        System.out.println("x" +  x);
-        System.out.println("y"+ y);
-        System.out.println("z"+ z);
-        c=c+1;
-        pq.add(z);
-    }
-    else{
-        break;
-    }
+    long z=x * 2 + y;
+    c=c+1;
+    if(z<(long) k) pq.add(z);
     }
     return c;
     }
