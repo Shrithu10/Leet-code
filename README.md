@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/Shrithu10/Leet-code/tree/master/0866-rectangle-overlap) |
 | [0944-smallest-range-i](https://github.com/Shrithu10/Leet-code/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/Shrithu10/Leet-code/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/Shrithu10/Leet-code/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Shrithu10/Leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/Shrithu10/Leet-code/tree/master/1260-day-of-the-year) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shrithu10/Leet-code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Shrithu10/Leet-code/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Shrithu10/Leet-code/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Shrithu10/Leet-code/tree/master/0944-smallest-range-i) |
+| [1031-add-to-array-form-of-integer](https://github.com/Shrithu10/Leet-code/tree/master/1031-add-to-array-form-of-integer) |
 | [1127-last-stone-weight](https://github.com/Shrithu10/Leet-code/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shrithu10/Leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1217-relative-sort-array](https://github.com/Shrithu10/Leet-code/tree/master/1217-relative-sort-array) |
