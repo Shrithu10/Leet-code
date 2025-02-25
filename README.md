@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Shrithu10/Leet-code/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Shrithu10/Leet-code/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Shrithu10/Leet-code/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/Shrithu10/Leet-code/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Shrithu10/Leet-code/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Shrithu10/Leet-code/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Shrithu10/Leet-code/tree/master/0507-perfect-number) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Shrithu10/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shrithu10/Leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shrithu10/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/Shrithu10/Leet-code/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Shrithu10/Leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Shrithu10/Leet-code/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Shrithu10/Leet-code/tree/master/0520-detect-capital) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Shrithu10/Leet-code/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Shrithu10/Leet-code/tree/master/0682-baseball-game) |
 | [1310-watering-plants](https://github.com/Shrithu10/Leet-code/tree/master/1310-watering-plants) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Shrithu10/Leet-code/tree/master/1505-create-target-array-in-the-given-order) |
