@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Shrithu10/Leet-code/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Shrithu10/Leet-code/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Shrithu10/Leet-code/tree/master/0944-smallest-range-i) |
+| [0979-di-string-match](https://github.com/Shrithu10/Leet-code/tree/master/0979-di-string-match) |
 | [1031-add-to-array-form-of-integer](https://github.com/Shrithu10/Leet-code/tree/master/1031-add-to-array-form-of-integer) |
 | [1127-last-stone-weight](https://github.com/Shrithu10/Leet-code/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shrithu10/Leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shrithu10/Leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/Shrithu10/Leet-code/tree/master/0941-sort-array-by-parity) |
+| [0979-di-string-match](https://github.com/Shrithu10/Leet-code/tree/master/0979-di-string-match) |
 | [2128-reverse-prefix-of-word](https://github.com/Shrithu10/Leet-code/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shrithu10/Leet-code/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shrithu10/Leet-code/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Shrithu10/Leet-code/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shrithu10/Leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shrithu10/Leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0979-di-string-match](https://github.com/Shrithu10/Leet-code/tree/master/0979-di-string-match) |
 | [1260-day-of-the-year](https://github.com/Shrithu10/Leet-code/tree/master/1260-day-of-the-year) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shrithu10/Leet-code/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/1524-string-matching-in-an-array) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Shrithu10/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Shrithu10/Leet-code/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/Shrithu10/Leet-code/tree/master/0670-maximum-swap) |
+| [0979-di-string-match](https://github.com/Shrithu10/Leet-code/tree/master/0979-di-string-match) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shrithu10/Leet-code/tree/master/1502-construct-k-palindrome-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shrithu10/Leet-code/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shrithu10/Leet-code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
