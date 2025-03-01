@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/Shrithu10/Leet-code/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/Shrithu10/Leet-code/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shrithu10/Leet-code/tree/master/2428-equal-row-and-column-pairs) |
+| [2551-apply-operations-to-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Shrithu10/Leet-code/tree/master/2561-number-of-distinct-averages) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Shrithu10/Leet-code/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shrithu10/Leet-code/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shrithu10/Leet-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shrithu10/Leet-code/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Shrithu10/Leet-code/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Shrithu10/Leet-code/tree/master/2634-minimum-common-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shrithu10/Leet-code/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/Shrithu10/Leet-code/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shrithu10/Leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Shrithu10/Leet-code/tree/master/2470-removing-stars-from-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/Shrithu10/Leet-code/tree/master/2645-pass-the-pillow) |
 | [2886-faulty-keyboard](https://github.com/Shrithu10/Leet-code/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/Shrithu10/Leet-code/tree/master/3447-clear-digits) |
