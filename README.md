@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Shrithu10/Leet-code/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2634-minimum-common-value](https://github.com/Shrithu10/Leet-code/tree/master/2634-minimum-common-value) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shrithu10/Leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shrithu10/Leet-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2881-split-strings-by-separator](https://github.com/Shrithu10/Leet-code/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Shrithu10/Leet-code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shrithu10/Leet-code/tree/master/3227-find-missing-and-repeated-values) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Shrithu10/Leet-code/tree/master/2487-optimal-partition-of-string) |
 | [2561-number-of-distinct-averages](https://github.com/Shrithu10/Leet-code/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Shrithu10/Leet-code/tree/master/2634-minimum-common-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shrithu10/Leet-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Shrithu10/Leet-code/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/Shrithu10/Leet-code/tree/master/2825-minimize-string-length) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shrithu10/Leet-code/tree/master/3227-find-missing-and-repeated-values) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Shrithu10/Leet-code/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Shrithu10/Leet-code/tree/master/2634-minimum-common-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shrithu10/Leet-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shrithu10/Leet-code/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
