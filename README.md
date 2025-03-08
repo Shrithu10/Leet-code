@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-capital-gainloss](https://github.com/Shrithu10/Leet-code/tree/master/1523-capital-gainloss) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Shrithu10/Leet-code/tree/master/1664-find-users-with-valid-e-mails) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shrithu10/Leet-code/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [2087-confirmation-rate](https://github.com/Shrithu10/Leet-code/tree/master/2087-confirmation-rate) |
 ## Matrix
 |  |
 | ------- |
