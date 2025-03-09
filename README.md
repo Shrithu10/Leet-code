@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shrithu10/Leet-code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Shrithu10/Leet-code/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/Shrithu10/Leet-code/tree/master/3429-special-array-i) |
+| [3463-alternating-groups-i](https://github.com/Shrithu10/Leet-code/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shrithu10/Leet-code/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shrithu10/Leet-code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Shrithu10/Leet-code/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shrithu10/Leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shrithu10/Leet-code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shrithu10/Leet-code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3463-alternating-groups-i](https://github.com/Shrithu10/Leet-code/tree/master/3463-alternating-groups-i) |
 ## Depth-First Search
 |  |
 | ------- |
