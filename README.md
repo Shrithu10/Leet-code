@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shrithu10/Leet-code/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shrithu10/Leet-code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Shrithu10/Leet-code/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Shrithu10/Leet-code/tree/master/2645-pass-the-pillow) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Shrithu10/Leet-code/tree/master/2748-calculate-delayed-arrival-time) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Shrithu10/Leet-code/tree/master/2824-check-if-the-number-is-fascinating) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shrithu10/Leet-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shrithu10/Leet-code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shrithu10/Leet-code/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Shrithu10/Leet-code/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/Shrithu10/Leet-code/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shrithu10/Leet-code/tree/master/2428-equal-row-and-column-pairs) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shrithu10/Leet-code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shrithu10/Leet-code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Shrithu10/Leet-code/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Shrithu10/Leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Shrithu10/Leet-code/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2551-apply-operations-to-an-array) |
@@ -570,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Shrithu10/Leet-code/tree/master/0319-bulb-switcher) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
