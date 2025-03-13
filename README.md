@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/Shrithu10/Leet-code/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Shrithu10/Leet-code/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1954-replace-all-digits-with-characters](https://github.com/Shrithu10/Leet-code/tree/master/1954-replace-all-digits-with-characters) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/Shrithu10/Leet-code/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1970-sorting-the-sentence](https://github.com/Shrithu10/Leet-code/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shrithu10/Leet-code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shrithu10/Leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrithu10/Leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Shrithu10/Leet-code/tree/master/0219-contains-duplicate-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shrithu10/Leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/Shrithu10/Leet-code/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shrithu10/Leet-code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shrithu10/Leet-code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/Shrithu10/Leet-code/tree/master/3463-alternating-groups-i) |
