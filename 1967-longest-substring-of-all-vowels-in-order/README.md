@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/longest-substring-of-all-vowels-in-order">1967. Longest Substring Of All Vowels in Order</a></h2><h3>Medium</h3><hr><p>A string is considered <strong>beautiful</strong> if it satisfies the following conditions:</p>
+<h2><a href="https://leetcode.com/problems/longest-substring-of-all-vowels-in-order">Longest Substring Of All Vowels in Order</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>A string is considered <strong>beautiful</strong> if it satisfies the following conditions:</p>
 
 <ul>
 	<li>Each of the 5 English vowels (<code>&#39;a&#39;</code>, <code>&#39;e&#39;</code>, <code>&#39;i&#39;</code>, <code>&#39;o&#39;</code>, <code>&#39;u&#39;</code>) must appear <strong>at least once</strong> in it.</li>
