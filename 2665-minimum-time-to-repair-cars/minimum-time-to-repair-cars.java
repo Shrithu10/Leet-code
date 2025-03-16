@@ -7,14 +7,14 @@ class Solution {
 
         while (low < high) {
             long mid = low + (high - low) / 2;
-            long totalCars = 0;
+            long t= 0;
 
             for (int r : ranks) {
-                totalCars += (long) Math.sqrt(mid / r);
-                if (totalCars >= cars) break;
+                t += (long) Math.sqrt(mid / r);
+                if (t>= cars) break;
             }
 
-            if (totalCars >= cars) {
+            if (t >= cars) {
                 high = mid;
             } else {
                 low = mid + 1;
