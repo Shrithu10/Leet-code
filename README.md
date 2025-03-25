@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Shrithu10/Leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shrithu10/Leet-code/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Shrithu10/Leet-code/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Shrithu10/Leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shrithu10/Leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shrithu10/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shrithu10/Leet-code/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Shrithu10/Leet-code/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Shrithu10/Leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Shrithu10/Leet-code/tree/master/0338-counting-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrithu10/Leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
