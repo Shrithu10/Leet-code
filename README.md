@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shrithu10/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Shrithu10/Leet-code/tree/master/0451-sort-characters-by-frequency) |
+| [0768-partition-labels](https://github.com/Shrithu10/Leet-code/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shrithu10/Leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1217-relative-sort-array](https://github.com/Shrithu10/Leet-code/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Shrithu10/Leet-code/tree/master/1256-rank-transform-of-an-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shrithu10/Leet-code/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Shrithu10/Leet-code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shrithu10/Leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0768-partition-labels](https://github.com/Shrithu10/Leet-code/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Shrithu10/Leet-code/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/Shrithu10/Leet-code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Shrithu10/Leet-code/tree/master/0958-sort-array-by-parity-ii) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Shrithu10/Leet-code/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Shrithu10/Leet-code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shrithu10/Leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0768-partition-labels](https://github.com/Shrithu10/Leet-code/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Shrithu10/Leet-code/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shrithu10/Leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/Shrithu10/Leet-code/tree/master/0979-di-string-match) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Shrithu10/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Shrithu10/Leet-code/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/Shrithu10/Leet-code/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/Shrithu10/Leet-code/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/Shrithu10/Leet-code/tree/master/0979-di-string-match) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shrithu10/Leet-code/tree/master/1502-construct-k-palindrome-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shrithu10/Leet-code/tree/master/1683-maximum-number-of-coins-you-can-get) |
