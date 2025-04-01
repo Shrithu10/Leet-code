@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/Shrithu10/Leet-code/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shrithu10/Leet-code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Shrithu10/Leet-code/tree/master/2594-count-pairs-of-similar-strings) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Shrithu10/Leet-code/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2634-minimum-common-value](https://github.com/Shrithu10/Leet-code/tree/master/2634-minimum-common-value) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Shrithu10/Leet-code/tree/master/2665-minimum-time-to-repair-cars) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Shrithu10/Leet-code/tree/master/2487-optimal-partition-of-string) |
 | [2561-number-of-distinct-averages](https://github.com/Shrithu10/Leet-code/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shrithu10/Leet-code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Shrithu10/Leet-code/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/Shrithu10/Leet-code/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shrithu10/Leet-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Shrithu10/Leet-code/tree/master/2824-check-if-the-number-is-fascinating) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Shrithu10/Leet-code/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/Shrithu10/Leet-code/tree/master/2487-optimal-partition-of-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Shrithu10/Leet-code/tree/master/2594-count-pairs-of-similar-strings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shrithu10/Leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Shrithu10/Leet-code/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/Shrithu10/Leet-code/tree/master/2825-minimize-string-length) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Shrithu10/Leet-code/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shrithu10/Leet-code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shrithu10/Leet-code/tree/master/2427-first-letter-to-appear-twice) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Shrithu10/Leet-code/tree/master/2594-count-pairs-of-similar-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shrithu10/Leet-code/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrithu10/Leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shrithu10/Leet-code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shrithu10/Leet-code/tree/master/2427-first-letter-to-appear-twice) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Shrithu10/Leet-code/tree/master/2594-count-pairs-of-similar-strings) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shrithu10/Leet-code/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shrithu10/Leet-code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
