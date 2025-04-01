@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shrithu10/Leet-code/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Shrithu10/Leet-code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Shrithu10/Leet-code/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Shrithu10/Leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shrithu10/Leet-code/tree/master/0172-factorial-trailing-zeroes) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shrithu10/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/Shrithu10/Leet-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shrithu10/Leet-code/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Shrithu10/Leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Shrithu10/Leet-code/tree/master/0205-isomorphic-strings) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shrithu10/Leet-code/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Shrithu10/Leet-code/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Shrithu10/Leet-code/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Shrithu10/Leet-code/tree/master/0874-backspace-string-compare) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shrithu10/Leet-code/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Shrithu10/Leet-code/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Shrithu10/Leet-code/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Shrithu10/Leet-code/tree/master/0287-find-the-duplicate-number) |
