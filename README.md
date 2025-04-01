@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Shrithu10/Leet-code/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shrithu10/Leet-code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Shrithu10/Leet-code/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2159-two-out-of-three](https://github.com/Shrithu10/Leet-code/tree/master/2159-two-out-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrithu10/Leet-code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Shrithu10/Leet-code/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shrithu10/Leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shrithu10/Leet-code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Shrithu10/Leet-code/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2159-two-out-of-three](https://github.com/Shrithu10/Leet-code/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Shrithu10/Leet-code/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Shrithu10/Leet-code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/Shrithu10/Leet-code/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1610-xor-operation-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrithu10/Leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2159-two-out-of-three](https://github.com/Shrithu10/Leet-code/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shrithu10/Leet-code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shrithu10/Leet-code/tree/master/2427-first-letter-to-appear-twice) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Shrithu10/Leet-code/tree/master/2594-count-pairs-of-similar-strings) |
