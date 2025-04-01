@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Shrithu10/Leet-code/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Shrithu10/Leet-code/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Shrithu10/Leet-code/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/Shrithu10/Leet-code/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Shrithu10/Leet-code/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Shrithu10/Leet-code/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shrithu10/Leet-code/tree/master/0747-min-cost-climbing-stairs) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shrithu10/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Shrithu10/Leet-code/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/Shrithu10/Leet-code/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/Shrithu10/Leet-code/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shrithu10/Leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1217-relative-sort-array](https://github.com/Shrithu10/Leet-code/tree/master/1217-relative-sort-array) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shrithu10/Leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/Shrithu10/Leet-code/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Shrithu10/Leet-code/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/Shrithu10/Leet-code/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Shrithu10/Leet-code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Shrithu10/Leet-code/tree/master/0958-sort-array-by-parity-ii) |
 | [1217-relative-sort-array](https://github.com/Shrithu10/Leet-code/tree/master/1217-relative-sort-array) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Shrithu10/Leet-code/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Shrithu10/Leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Shrithu10/Leet-code/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/Shrithu10/Leet-code/tree/master/0645-set-mismatch) |
 | [1054-complement-of-base-10-integer](https://github.com/Shrithu10/Leet-code/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Shrithu10/Leet-code/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1610-xor-operation-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/1610-xor-operation-in-an-array) |
