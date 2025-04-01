@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Shrithu10/Leet-code/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Shrithu10/Leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Shrithu10/Leet-code/tree/master/0338-counting-bits) |
+| [1054-complement-of-base-10-integer](https://github.com/Shrithu10/Leet-code/tree/master/1054-complement-of-base-10-integer) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrithu10/Leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shrithu10/Leet-code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shrithu10/Leet-code/tree/master/2427-first-letter-to-appear-twice) |
