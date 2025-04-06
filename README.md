@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Shrithu10/Leet-code/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shrithu10/Leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [0932-monotonic-array](https://github.com/Shrithu10/Leet-code/tree/master/0932-monotonic-array) |
+| [0940-fruit-into-baskets](https://github.com/Shrithu10/Leet-code/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Shrithu10/Leet-code/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Shrithu10/Leet-code/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/Shrithu10/Leet-code/tree/master/0958-sort-array-by-parity-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Shrithu10/Leet-code/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/Shrithu10/Leet-code/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shrithu10/Leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/Shrithu10/Leet-code/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/Shrithu10/Leet-code/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Shrithu10/Leet-code/tree/master/1256-rank-transform-of-an-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shrithu10/Leet-code/tree/master/1502-construct-k-palindrome-strings) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrithu10/Leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Shrithu10/Leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shrithu10/Leet-code/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0940-fruit-into-baskets](https://github.com/Shrithu10/Leet-code/tree/master/0940-fruit-into-baskets) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shrithu10/Leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Shrithu10/Leet-code/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shrithu10/Leet-code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
