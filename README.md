@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Shrithu10/Leet-code/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shrithu10/Leet-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shrithu10/Leet-code/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Shrithu10/Leet-code/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shrithu10/Leet-code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Shrithu10/Leet-code/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/Shrithu10/Leet-code/tree/master/3429-special-array-i) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/Shrithu10/Leet-code/tree/master/2594-count-pairs-of-similar-strings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Shrithu10/Leet-code/tree/master/2659-number-of-even-and-odd-bits) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shrithu10/Leet-code/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Shrithu10/Leet-code/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shrithu10/Leet-code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Shrithu10/Leet-code/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Heap (Priority Queue)
