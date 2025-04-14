@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Shrithu10/Leet-code/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Shrithu10/Leet-code/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Shrithu10/Leet-code/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shrithu10/Leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Shrithu10/Leet-code/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Shrithu10/Leet-code/tree/master/0682-baseball-game) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shrithu10/Leet-code/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shrithu10/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Shrithu10/Leet-code/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shrithu10/Leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Shrithu10/Leet-code/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/Shrithu10/Leet-code/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shrithu10/Leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shrithu10/Leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/Shrithu10/Leet-code/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Shrithu10/Leet-code/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shrithu10/Leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Shrithu10/Leet-code/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Shrithu10/Leet-code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Shrithu10/Leet-code/tree/master/0958-sort-array-by-parity-ii) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shrithu10/Leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shrithu10/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shrithu10/Leet-code/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shrithu10/Leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shrithu10/Leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shrithu10/Leet-code/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrithu10/Leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -633,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrithu10/Leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Shrithu10/Leet-code/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shrithu10/Leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shrithu10/Leet-code/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-fruit-into-baskets](https://github.com/Shrithu10/Leet-code/tree/master/0940-fruit-into-baskets) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shrithu10/Leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
