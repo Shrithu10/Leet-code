@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/Shrithu10/Leet-code/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Shrithu10/Leet-code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shrithu10/Leet-code/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Shrithu10/Leet-code/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Shrithu10/Leet-code/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Shrithu10/Leet-code/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shrithu10/Leet-code/tree/master/3227-find-missing-and-repeated-values) |
