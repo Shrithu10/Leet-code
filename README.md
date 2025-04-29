@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/Shrithu10/Leet-code/tree/master/2645-pass-the-pillow) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Shrithu10/Leet-code/tree/master/2748-calculate-delayed-arrival-time) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Shrithu10/Leet-code/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2998-count-symmetric-integers](https://github.com/Shrithu10/Leet-code/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shrithu10/Leet-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Shrithu10/Leet-code/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shrithu10/Leet-code/tree/master/3548-find-the-count-of-good-integers) |
@@ -684,5 +685,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shrithu10/Leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/Shrithu10/Leet-code/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shrithu10/Leet-code/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
