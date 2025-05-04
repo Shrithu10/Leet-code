@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrithu10/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shrithu10/Leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Shrithu10/Leet-code/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/Shrithu10/Leet-code/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrithu10/Leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shrithu10/Leet-code/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Shrithu10/Leet-code/tree/master/0189-rotate-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shrithu10/Leet-code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrithu10/Leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/Shrithu10/Leet-code/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Shrithu10/Leet-code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Shrithu10/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Shrithu10/Leet-code/tree/master/0219-contains-duplicate-ii) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Shrithu10/Leet-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shrithu10/Leet-code/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Shrithu10/Leet-code/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Shrithu10/Leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Shrithu10/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shrithu10/Leet-code/tree/master/0242-valid-anagram) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shrithu10/Leet-code/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Shrithu10/Leet-code/tree/master/0139-word-break) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shrithu10/Leet-code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Geometry
 |  |
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Shrithu10/Leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrithu10/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shrithu10/Leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Shrithu10/Leet-code/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Shrithu10/Leet-code/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Shrithu10/Leet-code/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Shrithu10/Leet-code/tree/master/0338-counting-bits) |
@@ -583,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shrithu10/Leet-code/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Shrithu10/Leet-code/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Shrithu10/Leet-code/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Shrithu10/Leet-code/tree/master/1236-n-th-tribonacci-number) |
 ## Counting Sort
