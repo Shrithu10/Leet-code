@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shrithu10/Leet-code/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Shrithu10/Leet-code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Shrithu10/Leet-code/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Shrithu10/Leet-code/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Shrithu10/Leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Shrithu10/Leet-code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shrithu10/Leet-code/tree/master/0119-pascals-triangle-ii) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Shrithu10/Leet-code/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Shrithu10/Leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Shrithu10/Leet-code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shrithu10/Leet-code/tree/master/0200-number-of-islands) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shrithu10/Leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Shrithu10/Leet-code/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Shrithu10/Leet-code/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shrithu10/Leet-code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shrithu10/Leet-code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shrithu10/Leet-code/tree/master/0119-pascals-triangle-ii) |
