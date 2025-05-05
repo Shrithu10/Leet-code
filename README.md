@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shrithu10/Leet-code/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shrithu10/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shrithu10/Leet-code/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Shrithu10/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Shrithu10/Leet-code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Shrithu10/Leet-code/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Shrithu10/Leet-code/tree/master/0064-minimum-path-sum) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shrithu10/Leet-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shrithu10/Leet-code/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shrithu10/Leet-code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Shrithu10/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Shrithu10/Leet-code/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Shrithu10/Leet-code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Shrithu10/Leet-code/tree/master/0189-rotate-array) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shrithu10/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/Shrithu10/Leet-code/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Shrithu10/Leet-code/tree/master/0874-backspace-string-compare) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shrithu10/Leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shrithu10/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Shrithu10/Leet-code/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Shrithu10/Leet-code/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shrithu10/Leet-code/tree/master/0070-climbing-stairs) |
@@ -701,4 +705,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shrithu10/Leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Shrithu10/Leet-code/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shrithu10/Leet-code/tree/master/3548-find-the-count-of-good-integers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shrithu10/Leet-code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
