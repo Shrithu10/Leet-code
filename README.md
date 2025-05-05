@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shrithu10/Leet-code/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Shrithu10/Leet-code/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Shrithu10/Leet-code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Shrithu10/Leet-code/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Shrithu10/Leet-code/tree/master/0168-excel-sheet-column-title) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Shrithu10/Leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shrithu10/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Shrithu10/Leet-code/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Shrithu10/Leet-code/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Shrithu10/Leet-code/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shrithu10/Leet-code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shrithu10/Leet-code/tree/master/0118-pascals-triangle) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shrithu10/Leet-code/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shrithu10/Leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shrithu10/Leet-code/tree/master/3548-find-the-count-of-good-integers) |
