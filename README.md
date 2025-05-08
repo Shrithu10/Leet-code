@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/Shrithu10/Leet-code/tree/master/1310-watering-plants) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shrithu10/Leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shrithu10/Leet-code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shrithu10/Leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Shrithu10/Leet-code/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/1524-string-matching-in-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shrithu10/Leet-code/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Shrithu10/Leet-code/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Shrithu10/Leet-code/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Shrithu10/Leet-code/tree/master/1256-rank-transform-of-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shrithu10/Leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shrithu10/Leet-code/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shrithu10/Leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shrithu10/Leet-code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Shrithu10/Leet-code/tree/master/0958-sort-array-by-parity-ii) |
 | [1217-relative-sort-array](https://github.com/Shrithu10/Leet-code/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Shrithu10/Leet-code/tree/master/1256-rank-transform-of-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shrithu10/Leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Shrithu10/Leet-code/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/Shrithu10/Leet-code/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/Shrithu10/Leet-code/tree/master/1970-sorting-the-sentence) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Shrithu10/Leet-code/tree/master/0561-array-partition) |
 | [1217-relative-sort-array](https://github.com/Shrithu10/Leet-code/tree/master/1217-relative-sort-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shrithu10/Leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
 | ------- |
