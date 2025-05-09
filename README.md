@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/Shrithu10/Leet-code/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shrithu10/Leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Shrithu10/Leet-code/tree/master/2645-pass-the-pillow) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Shrithu10/Leet-code/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Shrithu10/Leet-code/tree/master/2748-calculate-delayed-arrival-time) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Shrithu10/Leet-code/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2998-count-symmetric-integers](https://github.com/Shrithu10/Leet-code/tree/master/2998-count-symmetric-integers) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shrithu10/Leet-code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shrithu10/Leet-code/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2487-optimal-partition-of-string](https://github.com/Shrithu10/Leet-code/tree/master/2487-optimal-partition-of-string) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Shrithu10/Leet-code/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Game Theory
 |  |
 | ------- |
