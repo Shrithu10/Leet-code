@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Shrithu10/Leet-code/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shrithu10/Leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/Shrithu10/Leet-code/tree/master/0979-di-string-match) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Shrithu10/Leet-code/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1260-day-of-the-year](https://github.com/Shrithu10/Leet-code/tree/master/1260-day-of-the-year) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shrithu10/Leet-code/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Shrithu10/Leet-code/tree/master/1524-string-matching-in-an-array) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Shrithu10/Leet-code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shrithu10/Leet-code/tree/master/0200-number-of-islands) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Shrithu10/Leet-code/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Brainteaser
 |  |
 | ------- |
