@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Shrithu10/Leet-code/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Shrithu10/Leet-code/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Shrithu10/Leet-code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shrithu10/Leet-code/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Shrithu10/Leet-code/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Shrithu10/Leet-code/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Shrithu10/Leet-code/tree/master/0504-base-7) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Shrithu10/Leet-code/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Shrithu10/Leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Shrithu10/Leet-code/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Shrithu10/Leet-code/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Shrithu10/Leet-code/tree/master/0645-set-mismatch) |
 | [1054-complement-of-base-10-integer](https://github.com/Shrithu10/Leet-code/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Shrithu10/Leet-code/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Shrithu10/Leet-code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Shrithu10/Leet-code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shrithu10/Leet-code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shrithu10/Leet-code/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Shrithu10/Leet-code/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
